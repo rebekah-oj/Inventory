@@ -19,6 +19,7 @@ public class ProductTesterPart2 {
 //            System.out.println(productPart6);
 
         Scanner ProductPart1 = new Scanner(System.in);
+        //Why aren’t you using the scanner
         System.out.println("Enter the product: ");
         ProductPart2 productPart1 = new ProductPart2();
     }
